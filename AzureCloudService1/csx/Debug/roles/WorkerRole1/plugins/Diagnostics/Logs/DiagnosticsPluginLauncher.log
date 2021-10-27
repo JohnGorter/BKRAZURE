@@ -1,17 +1,13 @@
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] Emulator config file set to C:\Users\johngorter\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] DiagnosticsStoreRootPath set to: C:\Users\johngorter\AppData\Local\dftmp\Resources\68bce66d-cba5-404b-bc9e-7c3c9e98c5cf
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] Loading config file: C:\Users\johngorter\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] Config file to read: C:\Users\johngorter\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] Checking VM Type
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] Emulator config file set to C:\Users\johngorter\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] Extension set to Emulator Mode
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] Reading XML configuration file
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] Bypassing private config decryption
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:37 AM] Stopping the running plugin, if any
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:38 AM] No DiagnosticsPlugin is running.
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:38 AM] Killing any DiagnosticsPlugin that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:40 AM] Killing any MonAgentHost that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:40 AM] Diagnostics plugin stopped successfully
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:10:40 AM] Resetting DiagnosticPlugin
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:11:51 AM] DiagnosticsPlugin launched successfully with new configuration
-DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:11:51 AM] DiagnosticPlugin exited with code 0
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:56 AM] Emulator config file set to C:\Users\johngorter\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:56 AM] DiagnosticsStoreRootPath set to: C:\Users\johngorter\AppData\Local\dftmp\Resources\e0a4b8f5-cea9-437e-9f06-347aa90ddda3
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:56 AM] Loading config file: C:\Users\johngorter\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:57 AM] Config file to read: C:\Users\johngorter\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:57 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:57 AM] Emulator config file set to C:\Users\johngorter\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:57 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:57 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:57 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:57 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:58 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:58 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/27/2021 8:39:59 AM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\johngorter\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
